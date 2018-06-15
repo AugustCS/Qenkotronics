@@ -1,0 +1,74 @@
+.sep_qk {padding-top:20px;
+padding-bottom:20px;
+margin-top:20px;
+margin-bottom:20px;}
+
+.sep_qk2 {padding-top:10px;
+padding-bottom:10px;
+}
+
+
+.h_qk {padding-top:10px;
+padding-bottom:10px;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+.icon_qk {
+	max-width: 65px;
+	max-height: 65px;
+}
+
+.serv_qk {
+	margin-bottom:80px;
+}
+
+.val_qk {
+	margin-bottom:25px;
+}
+
+.intro_qk {
+	color: rgb(255,0,0);
+	text-shadow: 1.2px 1.5px rgb(0,0,255);
+	font-style: normal;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.subintro_qk {
+	color: white;
+	text-shadow: 1.2px 1.5px #000;
+	font-style: normal;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.submit_qk {
+	margin-top: 40px;
+}
+
+.serv_text_qk {
+	width: 85%;  
+	margin-left: auto; 
+	margin-right:auto;
+}
+
+.introImg_qk {
+	max-width: 42%;
+}
+
+.retraso0_5s {
+	-webkit-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;
+	animation-delay: 0.5s;
+}
+.retraso1s {
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso1_5s {
+	-webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
